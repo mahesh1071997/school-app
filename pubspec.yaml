@@ -1,0 +1,34 @@
+name: school
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.1.3 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.6
+  flutter: 
+    sdk: flutter
+  google_fonts: ^6.1.0
+  animated_button_bar: ^1.0.0
+  flutter_advanced_segment: ^3.0.2
+  pluto_grid: ^7.0.2
+  table_calendar: ^3.0.9
+  firebase_messaging:
+  flutter_local_notifications: ^15.1.0+1
+  firebase_core:
+  overlay_support: ^2.1.0
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
+  assets:
+    - assets/erp-ui-kit/images/
+    - assets/symbols/images/
+
