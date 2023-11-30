@@ -17,7 +17,7 @@ dependencies:
   table_calendar: ^3.0.9
   firebase_messaging:
   flutter_local_notifications: ^15.1.0+1
-  firebase_core:
+  firebase_core: 
   overlay_support: ^2.1.0
 
 dev_dependencies: 
