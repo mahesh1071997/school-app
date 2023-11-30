@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894190629393",
+    "project_id": "school-app-one",
+    "storage_bucket": "school-app-one.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894190629393:android:74a398570217f9b09bb7b0",
+        "android_client_info": {
+          "package_name": "com.gatistavam.school"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeH6pISNxgB18cRflAftCwl_45sWt0X5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
